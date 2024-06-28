@@ -23,3 +23,13 @@ Messing around with lists:
 3. Item number 3
     1. Item number 4
     2. Item number 5
+
+[Check the project here](https://github.com/ChrisPMint/tech-code)
+
+![Here coud be an image, but there isn't.]()
+
+>Code block.
+>Without code.
+>And even without the correct format.
+> 
+>New Line.
