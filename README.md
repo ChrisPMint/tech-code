@@ -55,6 +55,6 @@ ___
 | Value 3  | Value 4  |
 | Value 5  | Value 6  |
 
-- [] Task 1
+- [ ] Task 1
 - [x] Task 2
-- [] Task 3
+- [ ] Task 3
