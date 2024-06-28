@@ -26,10 +26,35 @@ Messing around with lists:
 
 [Check the project here](https://github.com/ChrisPMint/tech-code)
 
+[License](#License)
+
 ![Here coud be an image, but there isn't.]()
 
->Code block.
->Without code.
->And even without the correct format.
+Here are code blocks:
+
+> Code block.\
+> Without code.\
+> And even without the correct format.
 > 
->New Line.
+> New Line.
+
+`Some not-code`
+
+```
+Here is some not-code.
+Here you can write in the next line by just hitting [Return].
+```
+
+---
+***
+___
+
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Value 1  | Value 2  |
+| Value 3  | Value 4  |
+| Value 5  | Value 6  |
+
+- [] Task 1
+- [x] Task 2
+- [] Task 3
