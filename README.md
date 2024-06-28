@@ -67,6 +67,4 @@ for i in range(100):
     print(i)
 ```
 
-Bla bla bla.
-Is this commit now verified?
-Is it now verified?
+This commit is hopefully verified by now.
