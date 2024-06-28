@@ -58,3 +58,11 @@ ___
 - [ ] Task 1
 - [x] Task 2
 - [ ] Task 3
+
+Some Python code:
+
+```python
+print('Hello Markdown!')
+for i in range(100):
+    print(i)
+```
